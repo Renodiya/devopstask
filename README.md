@@ -6,30 +6,48 @@ Devops Intern Program
 **Project Description**
 To host a static website in AWS cloud.
 
+**Work Flow**
 
 **December 8th**
+
 Analysed what the task is about and searched for the necessary informations and links associated with it.
-Learned and understood the terms and concept of Git and Github using the below link.
+Learned and understood the terms and concepts of Git and Github by following the below link.
 
 Git and GitHub for Beginners
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
-Created an account in Github
+Installed Git on my Windows 10 OS by using the link below.
 
-**Dcember 9th**
+https://www.atlassian.com/git/tutorials/install-git
 
-Install Git on Windows
+ Installed code editor Visual studio code.
+ https://code.visualstudio.com/download
+ 
+Created an account in Github.
 
-https://www.atlassian.com/git/tutorials/install-git#windows
+Time required : 4 hours
 
+**December 9th**
+
+ Logged into Github account and created a repository. 
+ https://www.youtube.com/watch?v=KMOmw19ZCGs
+
+Tried to install WSL on Windows 10 machine, but the trial was not successfull.
+I used the following link to install.
+https://docs.microsoft.com/en-us/windows/wsl/install-manual
+
+Learned and worked on some basic operations and git commands like git init, git config, git add, git commit, git log, git ls-files, git status by referring the following link.
 
 Git & GitHub Full Course in 5 Hours
-
 https://www.youtube.com/watch?v=KMOmw19ZCGs
-December 8th
-planning collected data and link
-December 9th 
-wsl created account and started working on it
-december 10th
-worked on git commands and published
+
+Time required : 6 hours
+
+**December 10th**
+
+worked on some basic operations like git remote, git branch, git checkout, git rebase, git push, git pull, git reset.
+https://www.youtube.com/watch?v=RGOj5yH7evk
+
+Time required :4 hours
+
 december 11th
