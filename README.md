@@ -1,6 +1,6 @@
 # devopstask
 
-**Title**
+**Project Title**
 Devops Intern Program
 
 **Project Description**
@@ -45,9 +45,12 @@ Time required : 6 hours
 
 **December 10th**
 
-worked on some basic operations like git remote, git branch, git checkout, git rebase, git push, git pull, git reset.
+Worked on some basic operations like git remote, git branch, git checkout, git rebase, git push, git pull, git reset.
 https://www.youtube.com/watch?v=RGOj5yH7evk
 
-Time required :4 hours
+Repeatedly performed the tasks and corrected the errors.
+Learned how to fix merge conflicts.
 
-december 11th
+Time required : 6 hours
+
+
