@@ -25,7 +25,7 @@ https://www.atlassian.com/git/tutorials/install-git
  
 Created an account in Github.
 
-Time required : 4 hours
+Time taken : 4 hours
 
 **December 9th**
 
@@ -41,7 +41,7 @@ Learned and worked on some basic operations and git commands like git init, git 
 Git & GitHub Full Course in 5 Hours
 https://www.youtube.com/watch?v=KMOmw19ZCGs
 
-Time required : 6 hours
+Time taken : 6 hours
 
 **December 10th**
 
@@ -51,6 +51,30 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 Repeatedly performed the tasks and corrected the errors.
 Learned how to fix merge conflicts.
 
-Time required : 6 hours
+Time taken : 6 hours
+
+**December 11th**
+
+Created an AWS account and learned AWS Basics by following this link https://www.youtube.com/watch?v=ulprqHHWlng&t=2506s .
+
+Time taken : 4 hours
+
+**December 12th**
+
+Learned how to launch an Amazon EC2 Instance, Connect to Amazon EC2 Instances, Create a Website Using User Data, Using Access Keys with EC2, Using IAM Roles with EC2, Scale Elastically with Amazon EC2 Auto Scaling and did practise on AWS.
+
+Used the following link : https://www.youtube.com/watch?v=ulprqHHWlng&t=2506s
+
+Time taken : 8 hours
+
+**December 13th**
+
+Understood the basics of what Nginx is and how it differs from Appache web server.
+
+Learned to install and configure Nginx.
+
+Time taken : 5 hours
+
+
 
 
