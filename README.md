@@ -72,7 +72,9 @@ Time taken : 8 hours
 Understood the basics of what Nginx is and how it differs from Appache web server.
 
 Link as follows : https://www.youtube.com/watch?v=1ndlRiaYiWQ
+
                   https://medium.com/devopscurry/what-is-nginx-understanding-the-basics-of-nginx-in-2021-f8ee0f3d3d54
+                  
                   https://www.javatpoint.com/difference-between-apache-and-nginx
                   
 Time taken : 5 hours
@@ -82,7 +84,9 @@ Time taken : 5 hours
 Learned how to install and configure Nginx and also learned how to setup Nginx server blocks.
 
 Link as follows : https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-centos-7
+
                   https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-on-centos-7
+                  
                   https://phoenixnap.com/kb/how-to-install-nginx-on-centos-7
 
 Time taken : 8 hours
@@ -96,7 +100,9 @@ Checked the log file to identify the errors and found that the html file was not
 
 
 Followed the link as follows : https://www.youtube.com/watch?v=1ndlRiaYiWQ
+
                                https://claudiobrt.com/posts/2020-08-31-nginx-html-static-website/index.html
+                               
                                https://serverfault.com/questions/920880/nginx-defaults-to-usr-share-nginx-html
                                
 Time Taken : 12 hours
