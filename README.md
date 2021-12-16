@@ -84,9 +84,7 @@ Time taken : 5 hours
 Learned how to install and configure Nginx and also learned how to setup Nginx server blocks.
 
 Link as follows : https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-centos-7
-
-                  https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-on-centos-7
-                  
+                  https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-on-centos-7                  
                   https://phoenixnap.com/kb/how-to-install-nginx-on-centos-7
 
 Time taken : 8 hours
