@@ -106,7 +106,18 @@ Time Taken : 12 hours
 Started to learn about automation tool and how it differs from each other.
 
 Link as follows : https://www.theserverside.com/answer/Terraform-vs-Ansible-How-do-these-DevOps-tools-differ
+                  https://selleo.com/blog/terraform-vs-ansible
+                  https://www.whizlabs.com/blog/ansible-vs-terraform/
 
+Time taken : 3 hours
+
+**December 17th**
+
+Continued with the introduction to infrastructure as code with Terraform.
+
+Link as follows :https://learn.hashicorp.com/tutorials/terraform/infrastructure-as-code?in=terraform/aws-get-started
+
+Time taken : 4 hours
 
 
 
