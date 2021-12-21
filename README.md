@@ -119,6 +119,34 @@ Link as follows :https://learn.hashicorp.com/tutorials/terraform/infrastructure-
 
 Time taken : 4 hours
 
+**December 18th** 
+
+Learned to install Terraform and worked out some basic commands like terraform init, terraform plan, terraform apply, terraform destroy and deployed AWS EC2 instance using terraform.
+
+Link as follows : https://learn.hashicorp.com/tutorials/terraform/aws-destroy?in=terraform/aws-get-started
+                  https://www.youtube.com/watch?v=l5k1ai_GBDE
+                  https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet
+                  https://www.youtube.com/watch?v=SLB_c_ayRMo
+                  
+Time taken : 7 hours
+
+**December 19th**
+
+Created an EC2 instance and automatically deployed webserver using terraform.
+
+Link as follows :https://www.youtube.com/watch?v=SLB_c_ayRMo
+                https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet
+
+Time taken : 5 hours
+
+**December 21st**
+
+Continued with terraform basic commands like terraform state, terraform state list, terraform state show, terraform variables.
+
+Link as follows :https://www.youtube.com/watch?v=SLB_c_ayRMo
+
+Time taken : 5 hours
+
 
 
 
